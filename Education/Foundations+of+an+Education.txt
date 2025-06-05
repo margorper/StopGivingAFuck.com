@@ -1,0 +1,150 @@
+Foundations of an Education
+
+From my understanding, the purpose of an education is to develop the skills necessary to become learned in specific skills and interests to achieve one's personal and desired goals.
+
+My criticism of modern education is that it is too time-consuming and often fails in the above objective for the majority.
+
+It is my understanding that many in the past, say before the Industrial Revolution and before the implementation of public schools and the dogma that kids should be in school until 18, then later it be advised to go to college, seek higher degrees, and on and on. 
+
+Currently, we live in a society where many individuals are not fully self-sufficient until their mid to late 20s.
+
+Before the Industrial Revolution, it's my understanding that the majority of children would go through a 3rd grade education and would then be done. They would then move on and begin an apprenticeship or begin working on the farm or whatever they needed to do. 
+
+Children from wealthier families, or those children that were seen as being special or gifted in some way, would go to an 8th grade education.
+
+Then, those who were admired to possibly have significant influence, or were seen to have merit to possibly play a significant role in society would then move into high school and go up to 12th grade education.
+
+If these external factors were not assumed, higher education was naturally perceived as a waste of resources and time.
+
+Being that the goal of education is to build the necessary foundation to give the individual who is educated the skills to learn what it is that they desire to move into and to achieve their personal goals, I favor what is termed Classical Education.
+
+Classical Education is a format or steps of progression. It was designed with the child's development in mind. As we grow up, our minds develop into different or higher capacities in which are now open to being built in through this process of education.
+
+Children learn to crawl, then they learn to walk, then speak....
+
+In Classical Education, the primary foundation is simply learning to read and do basic arithmetic. Arithmetic being useful for counting and adding, figuring out change, doing inventory, and making basic predictions.
+
+Once the barebones are set in place, the first significant and important contribution to the education of the child is to learn grammar.
+### Grammar
+
+Grammar, I believe, is a quite often misunderstood topic. We think it is merely learning where to place a comma or learning past tense and active tense and all that.
+
+Grammar is significantly more important than just that.
+
+What Grammar allows the child to do is to begin to process and comprehend ideas.
+
+A sentence is a single idea. A single idea is a sentence.
+
+With grammar, we develop the skillset to process ideas. In the development of grammar to more and more advanced understanding, we develop the skills to process and interpret more and more complicated ideas.
+
+To give an example of this, here is the first sentence in Thomas Jefferson's First Inaugural Address. This is **one** idea.
+
+>Called upon to undertake the duties of the first executive office of our country, I avail myself of the presence of that portion of my fellow-citizens which is here assembled to express my grateful thanks for the favor with which they have been pleased to look toward me, to declare a sincere consciousness that the task is above my talents, and that I approach it with those anxious and awful presentiments which the greatness of the charge and the weakness of my powers so justly inspire. 
+>
+>**-Thomas Jefferson** in First Inaugural Address
+
+Again, this is a sentence. **A single idea.** Basically, we could think of a picture or a symbol. One thing that means one thing.
+
+This is kind of an extreme example, and many more of these types of sentences can be experienced by reading the works of these men who were involved with the formation of the United States.
+
+To develop this skill set, I would primarily lean towards the practice of Diagramming Sentences. One of the books I used that I enjoyed was a work by Eugene R. Moutoux named Drawing Sentences: A Guide to Diagramming. As I write this, it appears to still be available on Amazon.
+
+I enjoyed Eugene's book and found it to be valuable. However, we all learn differently, and there are many books on this subject. Find the one that works for you.
+
+Again, I'm sure many books on Grammar and diagramming sentences will be sufficient; this is just the one I used in my late 20s to develop a higher capacity. 
+
+After doing many of the exercises, I noticed my ability to comprehend more difficult text as well as speak more effectively improved significantly.
+
+Note: I did study diagramming sentences as a child, so this subject wasn't completely new for me. But it had been many, many years, and I wasn't that motivated as a child to become strong in this subject. I merely went through the motions, not realizing its significance.
+
+Having a strong foundation in Grammar will allow an individual to comprehend higher level learning and text. I went back and studied Grammar in my late 20s because I was studying topics in law - for example, contract law, trust law, securities, negotiable instruments, and things of that nature. Also, text from old judges, such as Herbert Broom and Willam Blackstone. I realized that this stuff was over my head in a lot of ways. By refreshing and becoming better at Grammar through the exercises of diagramming, I then developed the capacity to comprehend these texts at a higher level of understanding.
+
+The same would be true for scientific works - think medicine, engineering, physics, and all that, though those are not primary interests of mine.
+### Logic
+
+The next block in the pyramid of Classical Education is Logic. Logic is necessary to comprehend subjects, build upon topics, and move into greater understanding. Also, Logic plays a significant role in not being tricked or misguided by lies, false propaganda, and useless dogma.
+
+When I was younger, I used to think that the BS meter that some individuals seem to possess was inherit; one was merely born with it. This idea gets into theories of IQ and all that. I no longer agree with that; instead, I believe this symptom of being conned and easily tricked is actually the byproduct of not having developed Logic.
+
+I learned basic logic and algebra as a child from my interest in programming. And I strongly recommend that would probably be the easiest way to learn a foundation of Logic. It's interactive and hands-on, and it relates to my understanding of the human mind as a biological computer.
+
+So in programming, I'd recommend first learning a Procedural Programming Language. JavaScript, back in the day, would fit this category - not so much now with React, Vue.js, and whatever else is around. But the old school JavaScript would be sufficient. Personally, I first learned a language called Basic, which I don't think is around anymore.
+
+Procedural Programming Languages have very simple logic. A lot of if/else statements. If this happens, then do this... Then, we have concepts of basic variables. A = 10, B = dog. You get to learn about basic structures of data, like boolean, int, string, and all that.
+
+Start out with a Procedural Programming Language to learn just the basics.
+
+Next, I'd recommend learning an Object-Oriented Programming Language. This would include things like Java or C# or .net.
+
+What these languages will develop is the ability to comprehend higher levels of learning. We have Beliefs built or attached to more rooted beliefs. Programs within Programs. This will help with comprehending how your mind works and become more cognizant that if you can't comprehend something you desire to grow into, what's missing or what is malfunctioning.
+
+Malfunctioning is the idea that often our systems of operation and our understanding are built on false logic. 
+
+Bruce Lee spoke about this when he talked about how if you wanted to learn from him, you needed to empty your cup before he could fill it.
+
+This is quite common in the learning process. We have to unlearn things that aren't perfected to move up in understanding.
+
+After learning the basics of programming, my next step of encouragement would be to study for the LSAT. For my non-American readers, the LSAT is an entrance exam to get into law school. They weed people out by measuring and comparing them to those who also participate in this test. The higher score they get in this test, which is primarily on logic, determines who gets in and who does not because they usually have limited spots available and limited seats.
+
+You don't have to take the test, and I wouldn't unless you are interested in going to law school. But studying for the LSAT is probably the quickest and most efficient way to obtain the tools, concepts, and ideas around basic logic skills. They have plenty of books on this - usually, they are quite thick with many pages. They teach you through reading and hands-on exercises how to beat the exercises in the actual test.
+### Rhetoric
+
+Once Grammar is built, and Logic is built on top of that, we move into Rhetoric. In the day, only the super wealthy or the super gifted went on to learn Rhetoric. Rhetoric is basically about Communication. If you get a standard book with Rhetoric in the title, they'll probably talk about logical fallacies such as Appeal to Authority, Ad Hominem (Damn the Man), and all this other stuff.
+
+You can type in "Rhetorical logical fallacies" in Google to get a list of them.
+
+Though that might be useful to tear an individual's speech or dialogue apart, I personally do not think it is that useful, at least for me. It can be good as a defense or to tell other people, "Ooo, that's an ad hominem attack, he's using that because he doesn't really have a point", but to me, that often is a waste of time.
+
+Instead, when we get into this concept of Rhetoric, my understanding of what it is really for is communication. 
+
+To me, communication is the skillset of bringing people together. 
+
+To phrase this differently, **communication is getting people on the same page, moving in the same direction, towards the same goal.**
+
+This skillset is one that I did not become aware of until recently in my life, very late in life. I learned techniques in the past that helped me to some degree, such as learning the Socratic Method, which I'd recommend going through Xenophon's Memorabilia and reading the dialogues between Socrates and whoever he's working with.
+
+The next subject I'd recommend is learning what boundaries are, how to enforce boundaries, and the basics of assertiveness. Many books on this. One that I recently came across that I think is relevant and useful is "When I Say No, I Feel Guilty" by Manuel J. Smith.
+
+Outside that, the Crucial Learning series, that being, Crucial Conversations, Crucial Accountability, Crucial Leadership.
+
+Study topics of that nature, do the exercises, and practice living by principles of communication.
+
+After a foundation of communication, assertiveness, and boundaries are developed, it may be useful to learn Sales and Marketing if you are in business for yourself, even if you are not. However, strongly recommend, again, that you have a foundation of communication, assertiveness, and boundaries put in place first.
+
+Sales and Marketing have a symbiotic relationship. I would suggest that no one can compehend sales fully without also understanding marketing. The same is true in reverse; one cannot fully understand marketing without understanding sales. Though different, they are twined and work in relationship to one another.
+
+Also, I would suggest that certain works of philosophy are important as well. One that comes to mind is Beyond Good and Evil by Friedrich Nietzsche. Many other topics on this idea of morality. A lot of my articles here will relate to this concept, too.
+
+My basic premise is you must know good and evil in accordance with your own understanding of yourself and this reality and what this reality actually is. 
+
+That's an ever-growing topic, but basically, good is that which is in alignment with your goals, and evil is that which is not in alignment with your goals. But to fully comprehend that, again, I would suggest that one needs to have an understanding of who they are, what this reality is, and what purpose it serves.
+
+What was true yesterday is not necessarily true today. 
+
+At the same time, that’s an ever-growing development and subject matter and one needs to start somewhere. As the maxim states…
+
+**He who does nothing, makes no mistakes; he who makes no mistakes, learns nothing.**
+
+Yesterday was Monday, and today is Tuesday.
+
+I guess another concept worth looking into would be Hegelian Dialectic, which goes into the idea of Thesis + Antithesis = Synthesis.
+
+To simplify this. Yesterday's problem is today's solution, and today's solution is tomorrow's problem.
+### Overview
+
+When it comes to this education stuff, my perspective is that many of us are at a significant disadvantage to those who were well educated. I would say that is an undeniable fact. There exist those that invested 12 years in high levels of education, building the foundation in their capacity to process and comprehend advanced ideas, use logic to filter what is true and false, and the art of rhetoric to move into alignment with other people to accomplish their personal goals.
+
+That said, we all have our own path and wouldn't be too pessimistic on this. But if one is strongly pulled to the idea of competing and comparing themselves to others and trying to be the best of the best and all that, I would suggest that goal to be close to impossible. 
+
+But we all start somewhere, and I would think the true purpose of this existence has nothing to do with other individuals but merely one's own independent path brought about by our own goals and aspirations. 
+
+If you desire to advance your skillsets, your knowledge, become a more valuable asset to whatever organization or community you are apart of, or would like more leverage when it comes to pursuing your own and individualistic laudable endeavors - learning these fundamental building blocks of education, in my opinion, would be of great service to you.
+### Curriculum
+
+For the curriculum, I believe a strong foundation that would bring one up to the top 10%, possibly 5% of the population when it comes to developing the foundation to comprehend what is necessary to move into substantial goals, can be achieved in a 1 year investment of 2 hours per day.
+
+**Month 1 -2:** 2 hours a day for 2 months - Diagramming Sentences. Arithmetic if necessary.
+
+**Month 3-6:** 2 Hours a day for 4 months - Learn to program; Procedural for 1 month, then Object Orientated Programming for 1 month. Next, study for the LSAT for 2 months.
+
+**Month 7-12:** 2 hours a day for 6 months - Studying Communication, Assertiveness, and Boundaries.
